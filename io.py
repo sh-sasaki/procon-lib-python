@@ -1,0 +1,5 @@
+LI = list(map(int,input().split()))
+YES = lambda: print('Yes')
+Yes = lambda: print('YES')
+No = lambda: print('No')
+NO = lambda: print('NO')
