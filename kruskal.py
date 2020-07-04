@@ -9,3 +9,5 @@ for s,t,w in STW:
     if not union_find.same(s,t):
         ans += w
         union_find.unite(s,t)
+
+print(ans)
